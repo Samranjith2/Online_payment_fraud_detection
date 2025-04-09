@@ -1,3 +1,5 @@
 STEP 1:    Download link: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 STEP 2:    replace or copy the dataset in the same folder(which folder you clone this repository)
 STEP 3:    change the name of the dataset ("dataset".csv)
+
+IF YOU WANT TO USE THIS PROJECT,BE FREE
